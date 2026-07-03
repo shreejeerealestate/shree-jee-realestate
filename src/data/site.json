@@ -1,0 +1,30 @@
+{
+  "agencyName": "Shree Jee Realestate",
+  "tagline": "Your Trusted Property Partner in Braj Bhoomi",
+  "bio": "Mohit Mittal is a dedicated Property Advisor based in Faridabad with years of hands-on experience in the real estate markets of Vrindavan, Mathura, Barsana, and Govardhan. With an in-depth knowledge of the Braj Bhoomi region, Mohit has guided hundreds of families and investors in finding the right property — whether a residential plot, a luxury villa, or a premium apartment.\n\nAt Shree Jee Realestate, the mission is simple: connect every client with the right property, at the right location, and at the right price. Transparency, trust, and local expertise are the values that drive every deal.",
+  "agentName": "Mohit Mittal",
+  "agentTitle": "Property Advisor",
+  "agentPhoto": "/images/team/agent.jpg",
+  "contact": {
+    "agentName": "Mohit Mittal – Property Advisor",
+    "phone": "+91 98701 16333",
+    "phoneRaw": "+919870116333",
+    "whatsapp": "https://wa.me/919870116333",
+    "email": "brajdhamparkham@gmail.com",
+    "address": "Vrindavan, Mathura, Barsana & Govardhan",
+    "googleMapsUrl": "https://maps.google.com/?q=Vrindavan+Uttar+Pradesh+India"
+  },
+  "social": {
+    "instagram": "https://instagram.com/shreejee.realestate",
+    "facebook": "https://facebook.com/shreejee.realestate"
+  },
+  "stats": [
+    { "label": "Properties Sold", "value": 150 },
+    { "label": "Years of Experience", "value": 8 },
+    { "label": "Happy Families", "value": 500 },
+    { "label": "Cities Covered", "value": 4 }
+  ],
+  "heroTitle": "Find Your Perfect Property in Braj Bhoomi",
+  "heroSubtitle": "Premium plots, villas & apartments in Vrindavan, Mathura, Barsana & Govardhan.",
+  "heroCta": "View Properties"
+}

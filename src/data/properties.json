@@ -1,0 +1,199 @@
+[
+  {
+    "id": "brij-garden-vrindavan",
+    "slug": "brij-garden-vrindavan",
+    "title": "Brij Garden Vrindavan Jait",
+    "status": "for-sale",
+    "featured": true,
+    "price": 35000,
+    "priceType": "per-unit",
+    "currency": "INR",
+    "location": {
+      "address": "Jait, Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "specs": {
+      "plotSizeMin": 80,
+      "plotSizeMax": 500,
+      "areaUnit": "sq.yd",
+      "plotType": "Residential Plot"
+    },
+    "shortDescription": "MVDA-approved gated society plots in Vrindavan. Sizes 80–500 sq.yd at ₹35,000/sq.yd. Prime location with all amenities.",
+    "description": "Brij Garden Vrindavan Jait is a premium gated residential plot community in the sacred city of Vrindavan. Located in Jait, this thoughtfully planned society offers plots ranging from 80 to 500 sq.yd, making it ideal for families looking to build their dream home in a serene and spiritual setting.\n\nThe project is approved by MVDA (Mathura-Vrindavan Development Authority) at ₹45,000 per sq.yd and available at a special launch price of ₹35,000 per sq.yd with full payment within a month. The society features a secure gated entrance, dedicated parking, and assured water and power supply — everything you need for comfortable living.\n\nVrindavan is one of India's most sought-after residential destinations, blending spiritual heritage with modern infrastructure. This is a rare opportunity to own land in this holy city at an exceptional price.",
+    "images": [
+      "/images/properties/brij-garden-vrindavan/image-1.jpg",
+      "/images/properties/brij-garden-vrindavan/image-2.jpg",
+      "/images/properties/brij-garden-vrindavan/image-3.jpg",
+      "/images/properties/brij-garden-vrindavan/image-4.jpg",
+      "/images/properties/brij-garden-vrindavan/image-5.jpg"
+    ],
+    "videos": [
+      {
+        "type": "local",
+        "src": "/videos/properties/brij-garden-vrindavan/video-1.mp4",
+        "title": "Property Overview"
+      },
+      {
+        "type": "local",
+        "src": "/videos/properties/brij-garden-vrindavan/video-2.mp4",
+        "title": "Site Walkthrough"
+      }
+    ],
+    "amenities": [
+      "MVDA Approved",
+      "Gated Society",
+      "24/7 Security",
+      "Parking Available",
+      "Water Supply",
+      "Power Supply",
+      "Good Location",
+      "Affordable Pricing"
+    ],
+    "highlights": [
+      "Launch Price: ₹35,000/sq.yd",
+      "MVDA Approved Rate: ₹45,000/sq.yd",
+      "Plot Sizes: 80 – 500 sq.yd",
+      "Payment: Full amount within 1 month"
+    ],
+    "tags": ["plot", "gated-society", "mvda-approved", "vrindavan", "featured"],
+    "dateAdded": "2026-07-02"
+  },
+  {
+    "id": "braj-dham-vrindavan",
+    "slug": "braj-dham-vrindavan",
+    "title": "Braj Dham Vrindavan",
+    "status": "for-sale",
+    "featured": true,
+    "priceOnRequest": true,
+    "currency": "INR",
+    "location": {
+      "address": "Parkham, Vrindavan",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "specs": {
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "area": 200,
+      "areaUnit": "sq.yd",
+      "plotType": "Fully Furnished Luxury Duplex Cottage",
+      "configuration": "3BHK + Premium Lounge + Modular Kitchen + Desi Chulha + Open Lawn",
+      "roadWidth": "30 Ft."
+    },
+    "shortDescription": "Fully furnished luxury duplex bamboo cottage in Vrindavan. MVDA NOC approved, 200 sq.yd, assured rental income ₹35,000/month for 36 months.",
+    "description": "Braj Dham Vrindavan is an exclusive gated community offering fully furnished luxury duplex bamboo cottages in the sacred city of Vrindavan. Each cottage sits on a 200 sq.yd (1800 sq.ft) residential plot with 30 ft. road access, offering a rare combination of spirituality, comfort, and investment value.\n\nEvery cottage is designed as a spacious 3 BHK duplex with a premium lounge, 4 washrooms, a modular kitchen, a traditional desi chulha, and a beautiful open lawn. The project holds MVDA NOC approval under Sec 80 C, ensuring complete legal peace of mind.\n\nAs an investor, you receive assured rental income of ₹35,000 per month for 36 months, 90 complimentary night stays, 25% discount at Braj Dham Restaurant, and free pick & drop for Vrindavan temple visits. The community features 24×7 sankirtan, a meditation facility, Shri Braj Bihari Ji Temple, and 5 KW solar power in every villa — making it a truly divine investment.",
+    "images": [
+      "/images/properties/braj-dham-vrindavan/image-1.jpg",
+      "/images/properties/braj-dham-vrindavan/image-2.png"
+    ],
+    "videos": [
+      {
+        "type": "local",
+        "src": "/videos/properties/braj-dham-vrindavan/video-1.mp4",
+        "title": "Property Walkthrough"
+      },
+      {
+        "type": "local",
+        "src": "/videos/properties/braj-dham-vrindavan/video-2.mp4",
+        "title": "Community Overview"
+      },
+      {
+        "type": "local",
+        "src": "/videos/properties/braj-dham-vrindavan/video-3.mp4",
+        "title": "Amenities Tour"
+      }
+    ],
+    "amenities": [
+      "Fully Furnished",
+      "MVDA NOC Approved",
+      "Shri Braj Bihari Ji Temple",
+      "24×7 Sankirtan",
+      "Meditation Facility",
+      "24×7 Security",
+      "Govt. Electricity",
+      "5 KW Solar Power",
+      "15 Year Structure Guarantee",
+      "Easy Loan Facility",
+      "Free Legal Consultation",
+      "Free Doctor Consultation",
+      "Free Maintenance (1 Year)",
+      "Temple Pick & Drop",
+      "Braj Dham Restaurant"
+    ],
+    "highlights": [
+      "Assured Rental Income: ₹35,000/month × 36 months",
+      "90 Complimentary Night Stays in 36 months",
+      "25% Discount at Braj Dham Restaurant",
+      "200 Sq.Yd Plot | 3BHK Duplex Cottage",
+      "30 Ft. Wide Road | MVDA NOC Approved"
+    ],
+    "tags": ["duplex", "furnished", "investment", "mvda-approved", "vrindavan", "featured"],
+    "dateAdded": "2026-07-02"
+  },
+  {
+    "id": "ananda-majestic-vrindavan",
+    "slug": "ananda-majestic-vrindavan",
+    "title": "Ananda Majestic – Luxury Studios Near Prem Mandir",
+    "status": "for-sale",
+    "featured": true,
+    "price": 8000,
+    "priceType": "per-unit",
+    "currency": "INR",
+    "location": {
+      "address": "VIP Sunrak Road, Near Prem Mandir",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "specs": {
+      "area": 500,
+      "areaUnit": "sq.ft",
+      "plotType": "Luxury Studio Apartment",
+      "floors": "G + 22 Floors",
+      "possession": "Within 3 Years"
+    },
+    "shortDescription": "Pre-launch luxury studio apartments in a 35-acre gated high-rise community near Prem Mandir, Vrindavan. MVDA & RERA approved. Under ₹8,000/sq.ft.",
+    "description": "Ananda Majestic is a grand 35-acre secure gated community designed by the renowned ACPL Architects, offering premium high-rise living in the heart of Vrindavan — right near the iconic Prem Mandir. This G+22 floor tower redefines luxury living in a spiritual setting.\n\nThe project features The Grand Arcade Resort & Spa — a 5-star hotel within the campus — along with premium studio apartments, 1 BHK, and 2 BHK configurations. The pre-launch price is under ₹8,000/sq.ft (launch price: ₹9,990/sq.ft), with a Construction Linked Payment Plan (CLP) for easy financing. EOI booking starts at just ₹2 Lakhs.\n\nAnanda Majestic is both MVDA and RERA approved, offering full legal clarity and peace of mind. The location is unmatched — just 5 mins from Prem Mandir, 6 mins from ISKCON Temple, 10 mins from Banke Bihari Mandir, and 5 mins from NH-2. Whether you seek a spiritual retreat, a luxury holiday home, or a high-appreciation investment, this is Vrindavan's most exciting new address.",
+    "images": [
+      "/images/properties/ananda-majestic-vrindavan/image-1.jpg",
+      "/images/properties/ananda-majestic-vrindavan/image-2.jpg",
+      "/images/properties/ananda-majestic-vrindavan/image-3.jpg",
+      "/images/properties/ananda-majestic-vrindavan/image-4.jpg",
+      "/images/properties/ananda-majestic-vrindavan/image-5.jpg"
+    ],
+    "videos": [
+      {
+        "type": "local",
+        "src": "/videos/properties/ananda-majestic-vrindavan/video-1.mp4",
+        "title": "Project Overview"
+      }
+    ],
+    "amenities": [
+      "MVDA & RERA Approved",
+      "5-Star Hotel on Campus",
+      "G + 22 Floor High-Rise",
+      "35-Acre Gated Community",
+      "ACPL Architects Design",
+      "Construction Linked Plan",
+      "Near Prem Mandir",
+      "Near ISKCON Temple",
+      "Near Banke Bihari Mandir",
+      "24×7 Security",
+      "Loan Facility Available",
+      "Studios, 1 & 2 BHK Available"
+    ],
+    "highlights": [
+      "Pre-Launch Price: Under ₹8,000/sq.ft",
+      "Launch Price: ₹9,990/sq.ft",
+      "EOI Booking: ₹2 Lakhs only",
+      "Possession within 3 years",
+      "5-Star Grand Arcade Resort & Spa on campus",
+      "Prem Mandir – 5 mins | ISKCON – 6 mins"
+    ],
+    "tags": ["apartment", "studio", "high-rise", "mvda-approved", "rera-approved", "vrindavan", "featured"],
+    "dateAdded": "2026-07-03"
+  }
+]

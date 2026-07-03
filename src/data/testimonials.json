@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Ramesh Sharma",
+    "text": "YMC Developer helped us find the perfect plot in Vrindavan. The process was smooth, transparent, and completely hassle-free. Highly recommend to anyone looking to invest in this holy city.",
+    "rating": 5,
+    "photo": "",
+    "location": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Sunita Agarwal",
+    "text": "We were looking for an MVDA-approved plot for a long time. YMC Developer provided exactly what we needed at a very fair price. The team was professional and always available to answer our questions.",
+    "rating": 5,
+    "photo": "",
+    "location": "Agra, UP"
+  },
+  {
+    "id": 3,
+    "name": "Pradeep Verma",
+    "text": "Excellent experience! The gated society at Brij Garden is well planned with all basic amenities. We booked our plot and the documentation was completed without any issues. Very trustworthy developers.",
+    "rating": 5,
+    "photo": "",
+    "location": "Mathura, UP"
+  }
+]
