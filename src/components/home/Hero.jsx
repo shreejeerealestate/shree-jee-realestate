@@ -6,11 +6,11 @@ import site from '../../data/site.json'
 export default function Hero() {
   return (
     <section
-      className="relative h-screen flex items-center justify-center overflow-hidden"
+      className="relative h-screen flex items-center justify-start overflow-hidden"
       style={{
-        backgroundImage: "url('/images/hero/hero-bg.jpg')",
+        backgroundImage: "url('/images/properties/braj-dham-vrindavan/image-1.jpg')",
         backgroundSize: 'cover',
-        backgroundPosition: 'center',
+        backgroundPosition: 'right center',
         backgroundColor: '#0f172a',
       }}
     >
@@ -18,7 +18,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-primary/65" />
 
       {/* Content */}
-      <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
+      <div className="relative z-10 text-left px-8 sm:px-16 max-w-2xl">
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -41,7 +41,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
-          className="text-white/70 text-lg max-w-xl mx-auto mb-10 font-body"
+          className="text-white/70 text-lg max-w-xl mb-10 font-body"
         >
           {site.heroSubtitle}
         </motion.p>
@@ -50,7 +50,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.3 }}
-          className="flex flex-col sm:flex-row gap-4 justify-center"
+          className="flex flex-col sm:flex-row gap-4 justify-start"
         >
           <Button to="/properties" variant="primary">
             {site.heroCta} <ArrowRight size={16} />
