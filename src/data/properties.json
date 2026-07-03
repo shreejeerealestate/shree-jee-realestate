@@ -195,5 +195,117 @@
     ],
     "tags": ["apartment", "studio", "high-rise", "mvda-approved", "rera-approved", "vrindavan", "featured"],
     "dateAdded": "2026-07-03"
+  },
+  {
+    "id": "hare-krishna-ashiyana",
+    "slug": "hare-krishna-ashiyana",
+    "title": "Hare Krishna Ashiyana – Ultra-Premium 3 BHK",
+    "status": "for-sale",
+    "featured": true,
+    "price": 18800000,
+    "priceType": "total",
+    "currency": "INR",
+    "location": {
+      "address": "GH-3, Rukmani Vihar Phase-1, Near ISKCON Temple",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "specs": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1925,
+      "areaUnit": "sq.ft",
+      "plotType": "Ultra-Premium Fully Air-Conditioned Apartment",
+      "floors": "G + 14 Floors | 2 Towers",
+      "ceilingHeight": "10 Ft.",
+      "developer": "Hare Krishna Homes (Epoch Realtech Pvt. Ltd)",
+      "reraNumber": "UPRERAPRJ424528/11/2024"
+    },
+    "shortDescription": "Ultra-premium fully air-conditioned 3 BHK apartments by Hare Krishna Homes in Rukmani Vihar, Vrindavan. 1925 sq.ft | ₹1.88 Cr | 2 min from ISKCON Temple & Prem Mandir. RERA Approved.",
+    "description": "Hare Krishna Ashiyana by Hare Krishna Homes (Epoch Realtech Pvt. Ltd) is a signature ultra-premium residential development at GH-3, Rukmani Vihar Phase-1 — one of the most prestigious addresses in Mathura-Vrindavan. The project offers spacious 3 BHK apartments of 1925 sq.ft with grand entry from a 100 ft wide boulevard.\n\nEach home is 4-side open with 10 ft ceiling height, fully air-conditioned with split AC in all rooms and drawing rooms, ensuring exceptional comfort, natural light, and ventilation. Every apartment is equipped with full smart home automation — control your security, lighting, and appliances from anywhere, anytime. The 2-tower G+14 floor structure is designed by a top-renowned architect, offering sweeping views of the holy city.\n\nThe project is RERA approved (UPRERAPRJ424528/11/2024) and offers world-class amenities including an indoor luxury swimming pool, badminton court, premium gym, kids play area, cricket pitch, terrace garden with seating, sky garden, yoga & meditation centre, health club, walking trail, and more.\n\nThe location is unmatched — just 2 minutes from both ISKCON Temple and Prem Mandir, directly opposite Vrindavan's largest shopping mall (Omaxe Commercial), and within 500 metres of iconic 5-star and 7-star hotels including Taj, Radisson Blu, Best Western, and Nidhivan Sarovar Portico. Hare Krishna Ashiyana is truly the best smart property that Vrindavan has to offer.",
+    "images": [
+      "/images/properties/hare-krishna-ashiyana/image-1.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-2.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-3.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-4.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-5.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-6.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-7.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-8.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-9.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-10.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-11.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-12.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-13.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-14.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-15.jpg",
+      "/images/properties/hare-krishna-ashiyana/image-16.jpg"
+    ],
+    "videos": [
+      {
+        "type": "local",
+        "src": "/videos/properties/hare-krishna-ashiyana/video-1.mp4",
+        "title": "Property Tour"
+      },
+      {
+        "type": "local",
+        "src": "/videos/properties/hare-krishna-ashiyana/video-2.mp4",
+        "title": "Interior Walkthrough"
+      },
+      {
+        "type": "local",
+        "src": "/videos/properties/hare-krishna-ashiyana/video-3.mp4",
+        "title": "Amenities Overview"
+      }
+    ],
+    "amenities": [
+      "RERA Approved",
+      "Fully Air-Conditioned (Split AC in All Rooms)",
+      "Full Smart Home Automation",
+      "2 Towers | G+14 Floors",
+      "4-Side Open Homes",
+      "10 Ft. Ceiling Height",
+      "100 Ft. Wide Boulevard Entry",
+      "Indoor Luxury Swimming Pool",
+      "Badminton Court",
+      "Premium Gym",
+      "Kids Play Area",
+      "Cricket Pitch",
+      "Terrace Garden with Seating",
+      "Sky Garden",
+      "Health Club",
+      "Yoga & Meditation Centre",
+      "Indoor Play Area",
+      "Picnic Area",
+      "Green Terraces",
+      "Walking Trail",
+      "Surface Parking",
+      "Private Podium",
+      "High Speed Elevators with Power Backup",
+      "100% Power Backup (Common Areas)",
+      "Rainwater Harvesting",
+      "Waste Water Recycling",
+      "WI-FI / DTH Connectivity",
+      "Boom Barrier at Main Entrance",
+      "2 Min from ISKCON Temple",
+      "2 Min from Prem Mandir",
+      "Opposite Largest Mall (Omaxe Commercial)",
+      "500m from Taj, Radisson Blu & 5★/7★ Hotels",
+      "Top-Renowned Architect Design",
+      "Bank Loan Available"
+    ],
+    "highlights": [
+      "Price: ₹1.88 Cr*",
+      "3 BHK | 1925 Sq.Ft. | 10 Ft. Ceiling",
+      "RERA Approved: UPRERAPRJ424528/11/2024",
+      "Fully Air-Conditioned | Smart Home Automation",
+      "ISKCON Temple – 2 Min | Prem Mandir – 2 Min",
+      "Opposite Vrindavan's Largest Shopping Mall",
+      "500m from Taj, Radisson Blu & 5★/7★ Hotels",
+      "Booking Amount: ₹10 Lakh | CLP Payment Plan"
+    ],
+    "tags": ["apartment", "3bhk", "luxury", "vrindavan", "premium", "featured", "rera-approved", "smart-home"],
+    "dateAdded": "2026-07-03"
   }
 ]
