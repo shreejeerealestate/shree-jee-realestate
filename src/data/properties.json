@@ -331,7 +331,11 @@
     },
     "shortDescription": "New registry with mutation plots by Subh Sankalp Estate Pvt. Ltd. in a prime township on Yamuna Expressway, nearest Vrindavan. Sizes 60–300 sq.yd. 10–15 min from Mathura-Vrindavan.",
     "description": "Mero Vrindavan Dham is a brand-new township project by Subh Sankalp Estate Pvt. Ltd., featuring residential and commercial plots with new registry and mutation. Strategically located right on the Yamuna Expressway — the nearest township to Vrindavan — it offers seamless connectivity to all major spiritual and commercial destinations.\n\nPlot sizes range from 60 to 300 sq.yd, making it accessible for a wide range of buyers. The location is exceptional: just 10–15 minutes from Mathura-Vrindavan, 12–15 minutes from Banke Bihari Temple and Prem Mandir, 20–25 minutes from Krishna Janmbhumi, 5–7 minutes from Raya Heritage City, 40–45 minutes from Noida International Airport, and 40–45 minutes from the Industrial Hub.\n\nWhether you are looking to build your spiritual retreat, a commercial venture, or a long-term real estate investment, Mero Vrindavan Dham offers an unmatched combination of location, legal clarity, and value.",
-    "images": [],
+    "images": [
+      "/images/properties/mero-vrindavan-dham/image-1.jpg",
+      "/images/properties/mero-vrindavan-dham/image-2.jpg",
+      "/images/properties/mero-vrindavan-dham/image-3.jpg"
+    ],
     "videos": [
       { "type": "local", "src": "/videos/properties/mero-vrindavan-dham/video-1.mp4", "title": "Project Overview" },
       { "type": "local", "src": "/videos/properties/mero-vrindavan-dham/video-2.mp4", "title": "Site Tour" },
@@ -397,9 +401,7 @@
       "/images/properties/alpha-sky-villa-vrindavan/image-1.jpg",
       "/images/properties/alpha-sky-villa-vrindavan/image-2.jpg",
       "/images/properties/alpha-sky-villa-vrindavan/image-3.jpg",
-      "/images/properties/alpha-sky-villa-vrindavan/image-4.jpg",
-      "/images/properties/alpha-sky-villa-vrindavan/image-5.jpg",
-      "/images/properties/alpha-sky-villa-vrindavan/image-6.jpg"
+      "/images/properties/alpha-sky-villa-vrindavan/image-4.jpg"
     ],
     "videos": [
       { "type": "local", "src": "/videos/properties/alpha-sky-villa-vrindavan/video-1.mp4", "title": "Project Overview" },
