@@ -437,5 +437,74 @@
     ],
     "tags": ["apartment", "2bhk", "3bhk", "luxury", "furnished", "vrindavan", "mvda-approved", "rera-approved", "featured"],
     "dateAdded": "2026-07-09"
+  },
+  {
+    "id": "hare-krishna-resort-vrindavan",
+    "slug": "hare-krishna-resort-vrindavan",
+    "title": "Hare Krishna Resort & Suites – Premium 1 BHK Resort Apartments",
+    "status": "for-sale",
+    "featured": true,
+    "price": 4500000,
+    "priceType": "total",
+    "currency": "INR",
+    "location": {
+      "address": "Sunrakh Bangar, Near Prem Mandir & Banke Bihari Corridor",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "specs": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 645,
+      "areaUnit": "sq.ft",
+      "plotType": "1 BHK Premium Resort Apartment",
+      "floors": "Stilt + 14 Floors",
+      "possession": "March 2028",
+      "construction": "100% RCC Construction"
+    },
+    "shortDescription": "100% RCC luxury 1 BHK resort apartments at Sunrakh Bangar, Vrindavan. Stilt + 14 floors, 645 sq.ft, starting ₹45 Lakhs. RERA approved. Near Prem Mandir & Banke Bihari Corridor. Possession March 2028.",
+    "description": "Hare Krishna Resort & Suites is a RERA-approved luxury resort apartment project rising Stilt + 14 floors in the heart of Vrindavan, at Sunrakh Bangar — just moments from Prem Mandir and the iconic Banke Bihari Corridor. Built with 100% RCC construction for lasting quality, the project offers premium 1 BHK resort apartments of 645 sq.ft starting at just ₹45 Lakhs.\n\nEvery residence is designed to deliver resort-style living in a spiritual setting — featuring a gated community layout, green landscaped surroundings, lift access, and 24×7 security with power backup. The serene spiritual environment makes everyday living feel like a divine retreat.\n\nHare Krishna Resort & Suites is perfectly positioned for multiple purposes: a personal holiday home for peaceful getaways, a rental income asset benefiting from Vrindavan's year-round pilgrimage footfall, a spiritual stay for devotees, and a high-appreciation long-term investment in one of India's fastest-growing spiritual cities.\n\nWith RERA approval providing complete legal clarity and possession scheduled for March 2028, this is a rare opportunity to secure a premium address in Vrindavan at an accessible entry price.",
+    "images": [
+      "/images/properties/hare-krishna-resort-vrindavan/image-1.jpg",
+      "/images/properties/hare-krishna-resort-vrindavan/image-2.jpg",
+      "/images/properties/hare-krishna-resort-vrindavan/image-3.jpg",
+      "/images/properties/hare-krishna-resort-vrindavan/image-4.jpg",
+      "/images/properties/hare-krishna-resort-vrindavan/image-5.jpg",
+      "/images/properties/hare-krishna-resort-vrindavan/image-6.jpg",
+      "/images/properties/hare-krishna-resort-vrindavan/image-7.jpg",
+      "/images/properties/hare-krishna-resort-vrindavan/image-8.jpg"
+    ],
+    "videos": [
+      {
+        "type": "local",
+        "src": "/videos/properties/hare-krishna-resort-vrindavan/video-1.mp4",
+        "title": "Project Overview"
+      }
+    ],
+    "amenities": [
+      "RERA Approved",
+      "100% RCC Construction",
+      "Gated Community",
+      "Resort Style Living",
+      "24×7 Security",
+      "Lift & Power Backup",
+      "Green Landscape",
+      "Spiritual Environment",
+      "Stilt + 14 Floors",
+      "Near Prem Mandir",
+      "Near Banke Bihari Corridor",
+      "Investment + Rental Income Opportunity"
+    ],
+    "highlights": [
+      "Starting Price: ₹45 Lakhs*",
+      "1 BHK | 645 Sq.Ft. | Stilt + 14 Floors",
+      "RERA Approved | 100% RCC Construction",
+      "Possession: March 2028",
+      "Near Prem Mandir & Banke Bihari Corridor",
+      "Ideal: Holiday Home | Rental Income | Spiritual Stay | Investment"
+    ],
+    "tags": ["apartment", "1bhk", "resort", "luxury", "vrindavan", "rera-approved", "gated-society", "investment", "featured"],
+    "dateAdded": "2026-07-10"
   }
 ]
