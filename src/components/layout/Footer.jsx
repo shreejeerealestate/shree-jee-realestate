@@ -20,10 +20,10 @@ export default function Footer() {
 
           {/* Brand */}
           <div>
-            <h2 className="font-heading text-2xl mb-3">
-              <span className="text-accent">{site.agencyName.charAt(0)}</span>
-              {site.agencyName.slice(1)}
+            <h2 className="font-heading text-2xl mb-1">
+              <span className="text-white">Braj </span><span className="text-accent">Aangan</span>
             </h2>
+            <p className="text-white/40 text-xs tracking-widest uppercase mb-3">Realty · Vrindavan</p>
             <p className="text-white/60 text-sm leading-relaxed">{site.tagline}</p>
           </div>
 

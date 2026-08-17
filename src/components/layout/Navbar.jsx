@@ -41,9 +41,8 @@ export default function Navbar() {
 
           {/* Logo */}
           <Link to="/" className="flex-shrink-0">
-            <span className="font-heading text-xl lg:text-2xl text-white">
-              <span className="text-accent">{site.agencyName.charAt(0)}</span>
-              {site.agencyName.slice(1)}
+            <span className="font-heading text-xl lg:text-2xl">
+              <span className="text-white">Braj </span><span className="text-accent">Aangan</span>
             </span>
           </Link>
 
