@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { ArrowRight } from 'lucide-react'
+import { ArrowRight, Mail, Phone } from 'lucide-react'
 import Button from '../ui/Button'
 import site from '../../data/site.json'
 
@@ -58,6 +58,28 @@ export default function Hero() {
           <Button to="/contact" variant="outline">
             Contact Us
           </Button>
+        </motion.div>
+
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.45 }}
+          className="flex flex-col sm:flex-row gap-4 mt-8"
+        >
+          <a
+            href={`tel:${site.contact.phoneRaw}`}
+            className="flex items-center gap-2 text-white/60 hover:text-white text-sm font-body transition-colors"
+          >
+            <Phone size={14} className="text-accent shrink-0" />
+            {site.contact.phone}
+          </a>
+          <a
+            href={`mailto:${site.contact.email}`}
+            className="flex items-center gap-2 text-white/60 hover:text-white text-sm font-body transition-colors"
+          >
+            <Mail size={14} className="text-accent shrink-0" />
+            {site.contact.email}
+          </a>
         </motion.div>
       </div>
 

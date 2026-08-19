@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion'
+import { Mail, Phone } from 'lucide-react'
 import StatsBar from '../components/home/StatsBar'
 import Testimonials from '../components/home/Testimonials'
 import Button from '../components/ui/Button'
@@ -50,12 +51,29 @@ export default function About() {
                 Meet your advisor
               </p>
               <h2 className="font-heading text-3xl text-primary mb-1">{site.agentName}</h2>
-              <p className="text-gray-400 font-body text-sm mb-6">{site.agentTitle} · Faridabad</p>
+              <p className="text-gray-400 font-body text-sm mb-6">{site.agentTitle}</p>
 
               <div className="space-y-4 mb-8">
                 {bioParagraphs.map((para, i) => (
                   <p key={i} className="text-gray-600 font-body leading-relaxed">{para}</p>
                 ))}
+              </div>
+
+              <div className="flex flex-col gap-3 mb-8">
+                <a
+                  href={`tel:${site.contact.phoneRaw}`}
+                  className="flex items-center gap-3 text-sm font-body text-gray-600 hover:text-accent transition-colors"
+                >
+                  <Phone size={15} className="text-accent shrink-0" />
+                  {site.contact.phone}
+                </a>
+                <a
+                  href={`mailto:${site.contact.email}`}
+                  className="flex items-center gap-3 text-sm font-body text-gray-600 hover:text-accent transition-colors"
+                >
+                  <Mail size={15} className="text-accent shrink-0" />
+                  {site.contact.email}
+                </a>
               </div>
 
               <Button to="/contact" variant="dark">Get in Touch</Button>

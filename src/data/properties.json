@@ -506,5 +506,89 @@
     ],
     "tags": ["apartment", "1bhk", "resort", "luxury", "vrindavan", "rera-approved", "gated-society", "investment", "featured"],
     "dateAdded": "2026-07-10"
+  },
+  {
+    "id": "alpha-sky-villas-vrindavan",
+    "slug": "alpha-sky-villas-vrindavan",
+    "title": "Alpha Sky Villas – Vrindavan's 1st Podium-Concept 2/3/4 BHK Residences & Penthouses",
+    "status": "for-sale",
+    "featured": true,
+    "priceOnRequest": true,
+    "currency": "INR",
+    "location": {
+      "address": "Hare Krishna Orchid, Sunrakh Road, Behind Prem Mandir, Vrindavan 281121",
+      "city": "Vrindavan",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "specs": {
+      "area": 1922,
+      "areaUnit": "sq.ft",
+      "plotType": "Podium-Concept 2/3/4 BHK Residences & Penthouses",
+      "floors": "Stilt + 23 Floors",
+      "configurations": "2 BHK (Villa C & Villa CP-Premium) | 3 BHK (Villa PA & PB Super Premium) | 4 BHK Penthouses",
+      "developer": "Hare Krishna Orchid Group",
+      "reraNumber": "UPRERAPRJ874538/01/2026"
+    },
+    "shortDescription": "Vrindavan's 1st podium-concept development by Hare Krishna Orchid Group. RERA-approved 2/3/4 BHK residences & penthouses with breathtaking Yamuna views. Stilt + 23 floors inside Hare Krishna Orchid, Sunrakh Road, behind Prem Mandir. Private Sky Club with pool, gym & more.",
+    "description": "Alpha Sky Villas is the flagship high-rise residential offering by Hare Krishna Orchid Group — and Vrindavan's very first podium-concept residential development. Rising Stilt + 23 floors inside the prestigious Hare Krishna Orchid township on Sunrakh Road, right behind Prem Mandir, the project delivers a curated mix of premium 2, 3 and 4 BHK residences and penthouses framed by breathtaking Yamuna views.\n\n**Configurations**\n- **Villa PA & Villa PB — 3 BHK Super Premium** — corner residences with expansive layouts, multiple balconies, dedicated pooja room and box-store.\n- **Villa CP — 2 BHK Premium** — larger 2 BHK footprint with premium finishes.\n- **Villa C — 2 BHK** — efficient 2 BHK floor plate.\n- **4 BHK Penthouses** — top-of-the-tower residences with sweeping panoramic views.\n\nEach typical floor is planned with 12 residences (units 1201–1212 on the reference 12th floor plan), served by two entry lobbies, high-speed passenger lifts and a dedicated service lift.\n\n**The Sky Club** — a private clubhouse designed as an exclusive retreat, with swimming pool, fully equipped gym, pool table, chess room and additional recreation amenities. Residents enjoy resort-style leisure without leaving home.\n\n**Yamuna View & Podium Concept** — the podium-level design lifts residents above the streetscape, opening onto a landscaped deck and unbroken panoramas of the Yamuna river and the surrounding sacred landscape. This is a first-of-its-kind residential concept for Vrindavan.\n\n**Construction Linked Payment Plan (CLP)** — 10% at booking, 15% within 30 days of booking, 2.5% × 25 slab-linked installments from stilt to the 23rd floor, 2.5% at external plaster, 5% at start of flooring, and 5% on offer of possession.\n\n**Location advantages** — steps from Prem Mandir; short drives to ISKCON Temple, Banke Bihari Mandir, Keli Kunj and Sobari Van Theme Park; excellent access to Parikrama Marg and 24×7 transportation. Banks, hospitals, schools, hotels, renowned ashrams and Vrindavan's famous Chaat Chowpatty are all in the neighbourhood.\n\nRERA approved (UPRERAPRJ874538/01/2026) with full legal clarity. Ideal for holiday home buyers, spiritual residents, rental investors and long-term appreciation seekers.",
+    "images": [
+      "/images/properties/alpha-sky-villas-vrindavan/image-1.png",
+      "/images/properties/alpha-sky-villas-vrindavan/image-2.png",
+      "/images/properties/alpha-sky-villas-vrindavan/image-3.jpg",
+      "/images/properties/alpha-sky-villas-vrindavan/image-4.jpg"
+    ],
+    "videos": [
+      { "type": "local", "src": "/videos/properties/alpha-sky-villas-vrindavan/video-1.mp4", "title": "Project Walkthrough" },
+      { "type": "local", "src": "/videos/properties/alpha-sky-villas-vrindavan/video-2.mp4", "title": "Site Tour" },
+      { "type": "local", "src": "/videos/properties/alpha-sky-villas-vrindavan/video-3.mp4", "title": "Location & Connectivity" },
+      { "type": "local", "src": "/videos/properties/alpha-sky-villas-vrindavan/video-4.mp4", "title": "Amenities Overview" },
+      { "type": "local", "src": "/videos/properties/alpha-sky-villas-vrindavan/video-5.mp4", "title": "Construction Update" },
+      { "type": "local", "src": "/videos/properties/alpha-sky-villas-vrindavan/video-6.mp4", "title": "Apartment View" },
+      { "type": "local", "src": "/videos/properties/alpha-sky-villas-vrindavan/video-7.mp4", "title": "Full Community Tour" },
+      { "type": "local", "src": "/videos/properties/alpha-sky-villas-vrindavan/video-8.mp4", "title": "Model & Interiors" }
+    ],
+    "amenities": [
+      "RERA Approved (UPRERAPRJ874538/01/2026)",
+      "1st Podium-Concept Development in Vrindavan",
+      "Breathtaking Yamuna View",
+      "Stilt + 23 Floor High-Rise",
+      "Inside Hare Krishna Orchid Township",
+      "Behind Prem Mandir",
+      "2 BHK — Villa C & Villa CP (Premium)",
+      "3 BHK Super Premium — Villa PA & Villa PB",
+      "4 BHK Penthouses",
+      "Multi-Balcony Corner Layouts (3 BHK)",
+      "Dedicated Pooja Room (3 BHK)",
+      "Twin Entry Lobbies per Floor",
+      "High-Speed Passenger & Service Lifts",
+      "The Sky Club — Private Clubhouse",
+      "Swimming Pool",
+      "Fully Equipped Gym",
+      "Pool Table & Chess Room",
+      "Landscaped Podium Deck",
+      "Construction Linked Payment Plan",
+      "Near ISKCON Temple",
+      "Near Banke Bihari Mandir",
+      "Near Keli Kunj & Sobari Van Theme Park",
+      "Near Parikrama Marg",
+      "24×7 Transportation Connectivity",
+      "Banks, Hospitals, Schools Nearby",
+      "Renowned Ashrams & Chaat Chowpatty Nearby"
+    ],
+    "highlights": [
+      "Vrindavan's 1st Podium-Concept Development",
+      "Breathtaking Yamuna View",
+      "2 / 3 / 4 BHK Residences & Penthouses",
+      "RERA Approved: UPRERAPRJ874538/01/2026",
+      "Stilt + 23 Floors | Hare Krishna Orchid Group",
+      "The Sky Club — Pool, Gym, Pool Table, Chess",
+      "Inside Hare Krishna Orchid, Sunrakh Road, Vrindavan",
+      "12 Residences per Floor (Reference 12th Floor Plan)",
+      "CLP: 10% Booking + 15% within 30 Days",
+      "Behind Prem Mandir | Near ISKCON & Banke Bihari"
+    ],
+    "tags": ["apartment", "2bhk", "3bhk", "4bhk", "penthouse", "luxury", "premium", "high-rise", "yamuna-view", "podium-concept", "vrindavan", "rera-approved", "gated-society", "featured"],
+    "dateAdded": "2026-08-19"
   }
 ]
